@@ -1,0 +1,8 @@
+{
+	"adapter":"SQLite",
+	"server":"./bin/buckit-db.db",
+	"database":"buckit-db",
+	"username":"",
+	"password":"",
+	"showError":true
+}

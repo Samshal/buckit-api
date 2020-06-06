@@ -1,0 +1,22 @@
+{
+    "name": "samshal/buckit-api",
+    "description": "REST API for the Buckit APP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "samshal",
+            "email": "samueladeshina73@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.4",        
+        "emmetblue/emmet-blue": "dev-master"
+    },
+    "autoload":{
+        "psr-4":{
+            "BuckitApi\\":"./src"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable":true
+}

@@ -1,0 +1,9 @@
+{
+	"config-dir": {
+		"whitelists": "./configs/whitelists.json",
+		"database-config":"./configs/database-config.json"
+	},
+
+	"session-location": "./bin/data/session",
+	"acl-location": "./bin/data/acl"
+}
